@@ -1,62 +1,84 @@
 [
-  {
-    "id":1,
-    "name": "Ramesh Thapa",
-    "age": 34,
-    "gender": "Male",
-    "blood_group": "A+",
-    "contact": {
-      "phone": "+977-9812345678",
-      "email": "ramesh.thapa@example.com"
+    {
+        "id": 1,
+        "name": "Ramesh Thapa",
+        "age": 34,
+        "gender": "Male",
+        "blood_group": "A+",
+        "contact": {
+            "phone": "+977-9812345678",
+            "email": "ramesh.thapa@example.com"
+        },
+        "medical_history": [
+            "Hypertension"
+        ]
     },
-    "medical_history": ["Hypertension"]
-  },
-  {
-    "id": 2,
-    "name": "Sita Shrestha",
-    "age": 28,
-    "gender": "Female",
-    "blood_group": "O+",
-    "contact": {
-      "phone": "+977-9801122334",
-      "email": "sita.shrestha@example.com"
+    {
+        "id": 2,
+        "name": "Sita Shrestha",
+        "age": 28,
+        "gender": "Female",
+        "blood_group": "O+",
+        "contact": {
+            "phone": "+977-9801122334",
+            "email": "sita.shrestha@example.com"
+        },
+        "medical_history": [
+            "Asthma",
+            "Allergy - Dust"
+        ]
     },
-    "medical_history": ["Asthma", "Allergy - Dust"]
-  },
-  {
-    "id": 3,
-    "name": "Bikash Karki",
-    "age": 45,
-    "gender": "Male",
-    "blood_group": "B-",
-    "contact": {
-      "phone": "+977-9856781234",
-      "email": "bikash.karki@example.com"
+    {
+        "id": 3,
+        "name": "Bikash Karki",
+        "age": 45,
+        "gender": "Male",
+        "blood_group": "B-",
+        "contact": {
+            "phone": "+977-9856781234",
+            "email": "bikash.karki@example.com"
+        },
+        "medical_history": [
+            "Diabetes Type 2",
+            "High Cholesterol"
+        ]
     },
-    "medical_history": ["Diabetes Type 2", "High Cholesterol"]
-  },
-  {
-    "id": 4,
-    "name": "Anita Lama",
-    "age": 52,
-    "gender": "Female",
-    "blood_group": "AB+",
-    "contact": {
-      "phone": "+977-9845678901",
-      "email": "anita.lama@example.com"
+    {
+        "id": 4,
+        "name": "Anita Lama",
+        "age": 52,
+        "gender": "Female",
+        "blood_group": "AB+",
+        "contact": {
+            "phone": "+977-9845678901",
+            "email": "anita.lama@example.com"
+        },
+        "medical_history": [
+            "Thyroid Disorder"
+        ]
     },
-    "medical_history": ["Thyroid Disorder"]
-  },
-  {
-    "id": 5,
-    "name": "Prakash Rai",
-    "age": 39,
-    "gender": "Male",
-    "blood_group": "O-",
-    "contact": {
-      "phone": "+977-9823456789",
-      "email": "prakash.rai@example.com"
+    {
+        "id": 5,
+        "name": "Prakash Rai",
+        "age": 39,
+        "gender": "Male",
+        "blood_group": "O-",
+        "contact": {
+            "phone": "+977-9823456789",
+            "email": "prakash.rai@example.com"
+        },
+        "medical_history": []
     },
-    "medical_history": []
-  }
+    {
+        "id": 6,
+        "name": "Vicky Prajapti",
+        "age": 30,
+        "gender": "male",
+        "blood_group": "O+",
+        "medical_history": [
+            "diabetes",
+            "hypertension"
+        ],
+        "BMI": 22.5
+    }
 ]
